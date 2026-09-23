@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "79f2610ca7973c52781d840a",
+  "owner": "unuuhxwwx",
+  "repo": "page-cfcdd8294fb4b8d423868ffa",
+  "title": "容器(iHax)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cfcdd8294fb4b8d423868ffa",
+      "a": "容器(iHax)",
+      "b": "机场官网线路发布页",
+      "entity": "容器(iHax)",
+      "brand": "容器(iHax)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "489a728d1cd85009c9d1349ed8017a86278e384bd00991a53711598ca0c662e4",
+      "content": {
+        "primary_entity": "容器(iHax)",
+        "keyword1": "容器(iHax)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：手机、电脑、路由器各取所需，参考对应文档配置订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择合适套餐，让容器(iHax)为你的设备提供稳定的加速体验。",
+          "AI_CLOSING_TITLE": "现在就开始使用",
+          "AI_DESCRIPTION": "，容器(iHax)提供基础、旗舰、团队三档套餐，分别支持 3 台、5 台和 20 台设备同时在线。基础版每月 100GB 流量适合个人移动使用，旗舰版每月 300GB 并支持 IPLC 专线游戏加速，团队版每月 1000GB 满足多人协作。选择套餐后，根据设备类型下载对应客户端即可配置订阅。",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台以内设备、月流量 100GB 以内的个人用户；旗舰版适合 5 台设备、需要游戏加速或流媒体解锁的用户；团队版适合 20 台设备、月流量 1000GB 以内的小型团队。",
+          "AI_FAQ_ANSWER_2": "在同一时间可以分别在 3 台、5 台或 20 台设备上使用，具体取决于所选套餐。如果多设备同时使用，建议选择设备数更高的套餐。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算。",
+          "AI_FAQ_ANSWER_4": "不同客户端配置方式略有差异，请参考对应客户端的文档完成订阅导入。通常需要复制订阅链接，在客户端中选择从剪贴板导入或手动添加。",
+          "AI_FAQ_ANSWER_5": "套餐内的流量和权益在计费周期内有效，超出流量可能需要升级套餐或等待下一个周期。具体可在购买前查看所选套餐说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "支持按年付吗？",
+          "AI_FAQ_QUESTION_4": "如何配置订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期，快速了解容器(iHax)的使用重点。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备；旗舰版每月 300GB 支持 5 台设备；团队版每月 1000GB 支持 20 台设备，按需求选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对速度和稳定性有更高要求的场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供年付选项，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更经济。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "线路优化",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置，轻松开始使用容器(iHax)。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "容器(iHax)提供多档海外加速套餐，按设备数量与流量需求灵活选择。基础、旗舰、团队三档覆盖个人到团队场景，配置订阅后即可在常用客户端上使用。",
+          "AI_HERO_SUBTITLE": "多设备加速，套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐，覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付年付可选，按年更划算",
+          "AI_HIGHLIGHT_3": "支持流媒体与游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版满足多人协作。按设备数量和流量需求选择对应套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量预估，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认常用设备类型和操作系统，查看客户端支持情况与适配要求。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档，导入订阅链接或手动添加节点，完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "容器(iHax)加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bljrk.cn",
+    "host": "bljrk.cn"
+  },
+  "file_hashes": {
+    "index.html": "f00fd1840438fffcfa2e8f5b9e78ddc023685d7913f4c6a39201bc6f9a265d04",
+    "sitemap.xml": "119b4b3c1671b3955eb883b923be9df01e39e02c3ec6d71f8734a4ce906be196",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2948dbe5c1de198a0f66b6c70aa52382de0a186b2fefd83674e621ccdcec4339",
+    "robots.txt": "bf79397401df9af3c732b7e59bc632d3f059cbafab2e728542668df26a34e4e4",
+    "f992d0a43e7392e7eec8a664ce16714d.txt": "c008cf5fee78fa86371c993f8d633d5fadfb80a2ca5f56549dfd9c66c4cc1555"
+  },
+  "revision": "866a532c84d2c74d6ed9c6ff98423733056484f6a95dfcd276836f8df24111a2"
+}
